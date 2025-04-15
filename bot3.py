@@ -2,7 +2,7 @@ import telebot
 import random, os
 
 from funk_bot import *
-bot = telebot.TeleBot("7686716189:AAFuQAH_k9YIBkGg7C1jKvyyeK36pbZk_Vg")
+bot = telebot.TeleBot("????????????????????")
 
 bot.set_my_commands(
     commands=[
